@@ -1,5 +1,3 @@
--- HASTANE YÖNETİM SİSTEMİ (Hospital Management System)
-
 CREATE DATABASE Hastane_y_s;
 GO
 
@@ -65,6 +63,7 @@ CREATE TABLE tRecete
 GO
 
 --  VERİ GİRİŞİ (INSERT) İŞLEMLERİ
+-- Veri tabanı şeması hazırlandıktan sonra, ilişkileri doğrulamak ve veri akışını görmek için kullanılan örnek veri girişleri:
 USE Hastane_y_s
 GO
 
